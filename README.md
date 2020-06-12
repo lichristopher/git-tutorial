@@ -1,0 +1,11 @@
+- git init
+- git status
+- git add
+- git rm --cached <filename>
+- git commit
+- git log
+- git push
+- git clone <repo URL> <optional alias
+- git pull
+- git branch
+- git diff
